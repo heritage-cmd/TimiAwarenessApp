@@ -1,6 +1,9 @@
 import streamlit as st
 
-st.image("UniwolverhamptonImage.png")
+st.image("https://raw.githubusercontent.com/heritage-cmd/TimiAwarenessApp/main/UniwolverhamptonImage.png")
+
+#st.image("https://raw.githubusercontent.com/Deke8521/Timi_220624/main/UniwolverhamptonImage.png")
+#st.image("UniwolverhamptonImage.png")
 st.title("Awareness App")
 #st.subheader("Hi! I am your Subheader")
 st.header("Welcome to this Awareness App")
